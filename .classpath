@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/jars/activation.jar"/>
+	<classpathentry kind="lib" path="D:/jars/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/jars/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/jars/google-api-translate-java-0.95.jar"/>
+	<classpathentry kind="lib" path="D:/jars/google-api-translate-java-0.95.jar.zip"/>
+	<classpathentry kind="lib" path="D:/jars/joda-time-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/jars/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/jars/jstl.jar"/>
+	<classpathentry kind="lib" path="D:/jars/mail.jar"/>
+	<classpathentry kind="lib" path="D:/jars/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="D:/jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="D:/jars/servlet-api.jar" sourcepath="D:/jars/servlet-api-2.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/jars/standard.jar"/>
+	<classpathentry kind="lib" path="D:/jars/twilio-7.17.6-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="D:/jars/twilio-7.17.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/jars/twilio-7.17.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/jars/twilio-java-sdk-3.3.12.jar"/>
+	<classpathentry kind="lib" path="D:/jars/twilio-java-sdk-3.3.12.jar.zip"/>
+	<classpathentry kind="lib" path="D:/jars/WebTranslator-bin-0.2a.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsoup-1.10.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.json-api-1.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/pdfcrowd-4.2.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
